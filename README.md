@@ -1,3 +1,3 @@
-# Orange_IA2019
-Formation Orange_IA2019
+# Présentations_python
 
+Présentations réalisées dans le cadre de formation Simplon Orange IA 2019
